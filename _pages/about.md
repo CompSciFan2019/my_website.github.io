@@ -12,7 +12,7 @@ redirect_from:
 
 ----
 
-I am a second year Ph.D.. student at University of Southern California. This is my personal website, and I still working to write for the website. :D
+I am a second year Ph.D.. student at University of Southern California. This is my personal website. :D
 
 # News
 

@@ -33,5 +33,5 @@ This is a visualization tool that was built for simulating an automated warehous
 
 ## Video Demo:
 
-
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/omjpT013b3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

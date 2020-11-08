@@ -12,13 +12,13 @@ redirect_from:
 
 ----
 
-I am a second year Ph.D.. student at University of Southern California. This is my personal website. :D
+I am a second year Ph.D. student at University of Southern California. This is my personal website, and I am currently adding more content to it.
 
 # News
 
 ---
 
-11/07/2020: achieved 1st place in a NeurIPS 2020 challenge "Flatland" with a score of 297.507 (last check at 5 AM Nov 7th, 2020) [Click here to access the Leaderboard of Flatland Chanllege](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/leaderboards)
+11/07/2020: achieved 1st place in a NeurIPS 2020 challenge "Flatland" with a score of 297.507 (last check at 5 AM Nov 7th, 2020) [Click here to access the Leaderboard of Flatland Chanllege](https://www.aicrowd.com/challenges/neurips-2020-flatland-challenge/leaderboards). We also won the 1st place in Round 1 of the competition.
 
 
 

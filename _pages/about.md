@@ -12,7 +12,7 @@ redirect_from:
 
 ----
 
-I am a second year Ph.D. student at University of Southern California, who is interested in multi-agent systems, deep learning, heuristic search, planning and scheduling techniques, robotics, and artifical intelligence in general. 
+I am a third year Ph.D. student at University of Southern California, who is interested in multi-agent systems, deep learning, heuristic search, planning and scheduling techniques, robotics, and artifical intelligence. 
 
 # News
 

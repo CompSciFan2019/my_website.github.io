@@ -25,13 +25,7 @@ Won overall **1st place** in both rounds of the **NeurIPS-20 Flatland Challenge*
   <img width="460" height="300" src="../images/run_segment.gif">
 </p>
 
-# Software Video Demo
 
----
-
-1. 3D visualization of an automated warehouse. [Link](https://yizh.me/software/)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/omjpT013b3s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

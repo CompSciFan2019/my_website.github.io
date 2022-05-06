@@ -5,11 +5,25 @@ permalink: /publications/
 author_profile: true
 ---
 
-- **Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge**.
-  Jiaoyang Li, Zhe Chen, **Yi Zheng**, Shao-Hung Chen, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.
-  International Conference on Automated Planning and Scheduling (**ICAPS**), (in print), 2021.
+- **(Dis)Appearables: A Concept and Method for Actuated Tangible UIs to Appear and Disappear based on Stages**.
+
+  Ken Nakagaki, Jordan L Tappa, **Yi Zheng**, Jack Forman, Joanne Leong, Sven Koenig, and Hiroshi Ishii.
+  
+  In CHI Conference on Human Factors in Computing Systems (pp. 1-13), 2022.
+
+- **Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge (Winner of the NeurIPS’20 Flatland Challenge)**.
+
+  Jiaoyang Li, Zhe Chen, **Yi Zheng**, Shao-Hung Chan, Daniel Harabor, Peter J. Stuckey, Hang Ma and Sven Koenig.
+
+  International Conference on Automated Planning and Scheduling (ICAPS), pages 477-485, 2021.
+
+  A short version appeared at Symposium on Combinatorial Search (SoCS), pages 179-181, 2021.
+
   [[code]](https://github.com/Jiaoyang-Li/Flatland)
 
-- **Flatland Competition 2020: MAPF and MARL for Efficient Train Coordination on a Grid World**. 
-  Florian Laurent, Manuel Schneider, Christian Scheller, Jeremy Watson, Jiaoyang Li, Zhe Chen, **Yi Zheng**, Shao-Hung Chan, Konstantin Makhnev, Oleg Svidchenko, Vladimir Egorov, Dmitry Ivanov, Aleksei Shpilman, Evgenija Spirovska, Oliver Tanevski, Aleksandar Nikov, Ramon Grunder, David Galevski, Jakov Mitrovski, Guillaume Sartoretti, Zhiyao Luo, Mehul Damani, Nilabha Bhattacharya, Shivam Agarwal, Adrian Egli, Erik Nygren, and Sharada Mohanty. 2021. 
-  arXiv preprint arXiv:2103.16511.
+
+- **Flatland Competition 2020: MAPF and MARL for Efficient Train Coordination on a Grid World.**
+
+  Florian Laurent, Manuel Schneider, Christian Scheller, Jeremy Watson, Jiaoyang Li, Zhe Chen, **Yi Zheng**, Shao-Hung Chan, Konstantin Makhnev, Oleg Svidchenko, Vladimir Egorov, Dmitry Ivanov, Aleksei Shpilman, Evgenija Spirovska, Oliver Tanevski, Aleksandar Nikov, Ramon Grunder, David Galevski, Jakov Mitrovski, Guillaume Sartoretti, Zhiyao Luo, Mehul Damani, Nilabha Bhattacharya, Shivam Agarwal, Adrian Egli, Erik Nygren and Sharada Mohanty.
+
+  NeurIPS 2020 Competition and Demonstration Track, PMLR, volume 133, pages 275-301, 2021.

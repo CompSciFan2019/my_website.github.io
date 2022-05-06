@@ -5,11 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Conflict-Based Search for the Virtual Network Embedding Problem.**
+
+  **Y. Zheng**, S. Ravi, E. Kline, S. Koenig and S. Kumar.  
+  
+  In Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS), 2022.
+
 - **(Dis)Appearables: A Concept and Method for Actuated Tangible UIs to Appear and Disappear based on Stages**.
 
   Ken Nakagaki, Jordan L Tappa, **Yi Zheng**, Jack Forman, Joanne Leong, Sven Koenig, and Hiroshi Ishii.
   
   In CHI Conference on Human Factors in Computing Systems (pp. 1-13), 2022.
+
+- **Artificial Intelligence and Automation**.
+
+  S. Koenig, S.-H. Chan, J. Li and **Yi Zheng**.
+  
+  In Handbook of Automation, S. Nof (editor), Springer, 2021.
 
 - **Scalable Rail Planning and Replanning: Winning the 2020 Flatland Challenge (Winner of the NeurIPS’20 Flatland Challenge)**.
 

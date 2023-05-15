@@ -5,9 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
+- **Improved Conflict-Based Search for the Virtual Network Embedding Problem.**
+- 
+  **Yi Zheng**, Srivatsan Ravi, Erik Kline, Lincoln Thurlow, Sven Koenig and T. K. Satish Kumar
+  
+  In proceedings of the Thirty-Second International Conference on Computer Communications and Networks (ICCCN-2023).
+
+- **Priority-Based Search for the Virtual Network Embedding Problem.**
+- 
+  **Yi Zheng**, Hang Ma, Sven Koenig, Erik Kline and T. K. Satish Kumar
+  
+  In proceedings of the Thirty-Third International Conference on Automated Planning and Scheduling (ICAPS-2023).
+
 - **Conflict-Based Search for the Virtual Network Embedding Problem.**
 
-  **Y. Zheng**, S. Ravi, E. Kline, S. Koenig and S. Kumar.  
+  **Yi Zheng**, Srivatsan Ravi, Erik Kline, Sven Koenig and T. K. Satish Kumar.  
   
   In Proceedings of the International Conference on Automated Planning and Scheduling (ICAPS), 2022.
 

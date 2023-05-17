@@ -14,7 +14,7 @@ author_profile: true
   In proceedings of the Thirty-Second International Conference on Computer Communications and Networks (ICCCN-2023).
 
 - **Priority-Based Search for the Virtual Network Embedding Problem.**
-- 
+
   **Yi Zheng**, Hang Ma, Sven Koenig, Erik Kline and T. K. Satish Kumar
   
   In proceedings of the Thirty-Third International Conference on Automated Planning and Scheduling (ICAPS-2023).

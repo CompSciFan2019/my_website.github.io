@@ -8,7 +8,7 @@ author_profile: true
 
 
 - **Improved Conflict-Based Search for the Virtual Network Embedding Problem.**
-- 
+
   **Yi Zheng**, Srivatsan Ravi, Erik Kline, Lincoln Thurlow, Sven Koenig and T. K. Satish Kumar
   
   In proceedings of the Thirty-Second International Conference on Computer Communications and Networks (ICCCN-2023).

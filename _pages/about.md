@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +11,9 @@ redirect_from:
 
 ----
 
-I am a third year Ph.D. student at University of Southern California, who is interested in multi-agent systems, deep learning, heuristic search, planning and scheduling techniques, robotics, and artifical intelligence. 
+I am a Ph.D. student in Computer Science at University of Southern California, who is interested in virtual network embedding, multi-agent systems, pathfinding, heuristic search, planning and scheduling techniques, optimization, robotics, machine learning, and artifical intelligence. 
+
+My research focuses on developing scalable algorithms for solving the Virtual Network Embedding problem and the Multi-Agent Pathfinding problem efficiently and effectly. I am also intrested in building pathfinding system for planning robot motions. 
 
 # News
 
@@ -24,9 +25,3 @@ Won overall **1st place** in both rounds of the **NeurIPS-20 Flatland Challenge*
 <p align="center">
   <img width="460" height="300" src="../images/run_segment.gif">
 </p>
-
-
-
-
-
-

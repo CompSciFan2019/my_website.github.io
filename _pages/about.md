@@ -13,7 +13,7 @@ redirect_from:
 
 I am a Ph.D. student in Computer Science at University of Southern California, who is interested in virtual network embedding, multi-agent systems, pathfinding, heuristic search, planning and scheduling techniques, optimization, robotics, machine learning, and artifical intelligence. 
 
-My research focuses on developing scalable algorithms for solving the Virtual Network Embedding problem and the Multi-Agent Pathfinding problem efficiently and effectly. I am also intrested in building pathfinding system for planning robot motions. 
+My research focuses on developing scalable algorithms for solving the Virtual Network Embedding problem and the Multi-Agent Pathfinding problem efficiently and effectly. I am also intrested in building pathfinding systems for planning robot motions. 
 
 # News
 

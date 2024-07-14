@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Threading Space: Kinetic Sculpture Exploring Spatial Interaction Using Threads In Motion.**
+
+  Ramarko Bhattacharya, You Li, Emilie Faracci, Harrison Dong, **Yi Zheng**, Ken Nakagaki
+
+  In proceedings of the 16th Conference on Creativity & Cognition.
+
 - **Improved Conflict-Based Search for the Virtual Network Embedding Problem.**
 
   **Yi Zheng**, Srivatsan Ravi, Erik Kline, Lincoln Thurlow, Sven Koenig and T. K. Satish Kumar

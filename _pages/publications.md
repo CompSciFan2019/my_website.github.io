@@ -5,23 +5,29 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Virtual Network Embedding as Boolean Satisfiability.**
+
+  Pavel Surynek, **Yi Zheng**, Erik Kline, Sven Koenig and T. K. Satish Kumar
+
+  In Proceedings of the Thirty-Sixth International Conference on Tools with Artificial Intelligence (ICTAI 2024).
+
 - **Threading Space: Kinetic Sculpture Exploring Spatial Interaction Using Threads In Motion.**
 
   Ramarko Bhattacharya, You Li, Emilie Faracci, Harrison Dong, **Yi Zheng**, Ken Nakagaki
 
-  In proceedings of the 16th Conference on Creativity & Cognition.
+  In Proceedings of the 16th Conference on Creativity & Cognition.
 
 - **Improved Conflict-Based Search for the Virtual Network Embedding Problem.**
 
   **Yi Zheng**, Srivatsan Ravi, Erik Kline, Lincoln Thurlow, Sven Koenig and T. K. Satish Kumar
   
-  In proceedings of the Thirty-Second International Conference on Computer Communications and Networks (ICCCN-2023).
+  In Proceedings of the Thirty-Second International Conference on Computer Communications and Networks (ICCCN-2023).
 
 - **Priority-Based Search for the Virtual Network Embedding Problem.**
 
   **Yi Zheng**, Hang Ma, Sven Koenig, Erik Kline and T. K. Satish Kumar
   
-  In proceedings of the Thirty-Third International Conference on Automated Planning and Scheduling (ICAPS-2023).
+  In Proceedings of the Thirty-Third International Conference on Automated Planning and Scheduling (ICAPS-2023).
 
 - **Conflict-Based Search for the Virtual Network Embedding Problem.**
 
